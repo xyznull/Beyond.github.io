@@ -1,0 +1,172 @@
+Uri: https://cdn.shopify.com/s/files/1/0699/2153/8295/files/VantaLogo.png
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\s\files\1\0699\2153\8295\files\VantaLogo.png
+Content Type: image/png
+
+Uri: https://shop.app/checkouts/internal/preloads.js?locale=en-GB&shop_id=69921538295
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\checkouts\internal\preloads-1.js
+Content Type: application/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/files/VantaLogo_44be7e2d-a412-4ca1-8bb9-3ede213286c5_32x32.png?v=1718819834
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\files\VantaLogo_44be7e2d-a412-4ca1-8bb9-3ede213286c5_32x32.png
+Content Type: image/png
+
+Uri: https://store.vantacheats.to/cdn/shop/files/vanta_logo_135x.png?v=1718868004
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\files\vanta_logo_135x.png
+Content Type: image/png
+
+Uri: https://store.vantacheats.to/cdn/shop/files/vanta_logo_135x@2x.png?v=1718868004
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\files\vanta_logo_135x@2x.png
+Content Type: image/png
+
+Uri: https://store.vantacheats.to/cdn/shop/files/vanta_logo_170x.png?v=1718868004
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\files\vanta_logo_170x.png
+Content Type: image/png
+
+Uri: https://store.vantacheats.to/cdn/shop/files/vanta_logo_170x@2x.png?v=1718868004
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\files\vanta_logo_170x@2x.png
+Content Type: image/png
+
+Uri: https://store.vantacheats.to/cdn/shop/files/vanta_logo_small.png?v=1718868004
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\files\vanta_logo_small.png
+Content Type: image/png
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/announcement-bar.css?v=97837507293639511121718817530
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\announcement-bar.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/blaze.js?v=153689078487321480981718817530
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\blaze.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/cart-provider.js?v=51729011619080374291718817531
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\cart-provider.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/core.css?v=20913853800589945161718817531
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\core.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/drop-down.js?v=134248009384311772371718817532
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\drop-down.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/footer.css?v=36923194359842579201718817532
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\footer.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/header.css?v=62764732741413671621718817532
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\header.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/main-nav-mobile-loader.js?v=110411130173839683061718817532
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\main-nav-mobile-loader.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/main-nav-mobile-toolbar.js?v=42451228715422794701718817532
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\main-nav-mobile-toolbar.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/main-nav-mobile.css?v=84294199203906701081718817532
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\main-nav-mobile.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/main-nav-mobile.js?v=106806273233583962411718817532
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\main-nav-mobile.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/main-nav.css?v=133608754966954787521718817532
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\main-nav.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/modal.css?v=153821259541741659551718817532
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\modal.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/modal.js?v=144325349831045053721718817532
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\modal.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/navigation-bar.css?v=9600368039442181731718817533
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\navigation-bar.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/plyr.js?v=81239015460531390391718817533
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\plyr.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/predictive-search.css?v=174306140240465623661718817533
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\predictive-search.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/predictive-search.js?v=104199195210997086131718817533
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\predictive-search.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/product-dynamic-checkout.js?v=25822026637653469331718817533
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\product-dynamic-checkout.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/product-form.js?v=145131894212053286261718817533
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\product-form.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/product-quick-view.js?v=13881295849157211311718817534
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\product-quick-view.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/product-to-cart.js?v=6095891989671331211718817534
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\product-to-cart.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/product-variant-listener.js?v=54062733227880228181718817534
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\product-variant-listener.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/product-variant-provider.js?v=111721661119923433281718817534
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\product-variant-provider.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/scroll-to-top-button.js?v=22932576784810242701718817534
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\scroll-to-top-button.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/slideshow-blaze.js?v=113211149322647725231718817534
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\slideshow-blaze.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/spinner.css?v=114405919020927442181718817534
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\spinner.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/toast-notification.css?v=58570705468199793591718817535
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\toast-notification.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/toast-notification.js?v=179802583820712451171718817535
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\toast-notification.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/utility-bar.css?v=149532189822410343481718817535
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\utility-bar.css
+Content Type: text/css
+
+Uri: https://store.vantacheats.to/cdn/shop/t/17/assets/video-player.js?v=16097144113722785691718817535
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shop\t\17\assets\video-player.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shopifycloud\shopify\assets\storefront\features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\cdn\shopifycloud\shopify\assets\storefront\load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js
+Content Type: text/javascript
+
+Uri: https://store.vantacheats.to/checkouts/internal/preloads.js?locale=en-GB
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\checkouts\internal\preloads.js
+Content Type: application/javascript
+
+Uri: https://store.vantacheats.to/pages/status
+File Name: C:\Users\Crcker2.0\Downloads\store.vantacheats.to\pages\status.html
+Content Type: text/html
+
